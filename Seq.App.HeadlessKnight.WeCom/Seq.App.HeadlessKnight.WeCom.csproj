@@ -9,7 +9,7 @@
     <Description>一个用于向企业微信机器人发送消息的Seq应用</Description>
     <Copyright>Copyright (c) 2024 HeadlessKnight</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageTags>seq;wecom;logging;event;webhook</PackageTags>
+    <PackageTags>seq;seq-app;wecom;logging;event;webhook</PackageTags>
     <PackageProjectUrl>https://github.com/headless-knight/Seq.App.HeadlessKnight.WeCom</PackageProjectUrl>
     <RepositoryUrl>https://github.com/headless-knight/Seq.App.HeadlessKnight.WeCom</RepositoryUrl>
     <PackageIcon>Logo.png</PackageIcon>
